@@ -11,12 +11,12 @@ Protaascan shiny web app.
 ## Source
 ==========
 
-<pre><code style='background: #C0C0C0;'>git clone https://github.com/NajlaBioinfo/protaascan.git</code></pre>
+<pre><code style='background: #C0C0C0;'>git clone https://github.com/NajlaBioinfo/protaascann.git</code></pre>
 
 ## URL
 ==========
 
-<pre><code style='background: #C0C0C0;'>git clone  https://wordscloud.shinyapps.io/protaascann</code></pre>
+<pre><code style='background: #C0C0C0;'><a href="https://wordscloud.shinyapps.io/protaascann">https://wordscloud.shinyapps.io/protaascann<a></code></pre>
 
 ## Authors & Maintainer
 ====================
